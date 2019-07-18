@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "storeandanalyze", "storeandanalyze\storeandanalyze.csproj", "{AC7B9658-3345-429E-A53B-9E469CB867FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC7B9658-3345-429E-A53B-9E469CB867FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC7B9658-3345-429E-A53B-9E469CB867FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC7B9658-3345-429E-A53B-9E469CB867FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC7B9658-3345-429E-A53B-9E469CB867FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DA9BC03-E822-41B8-B540-C18CEF5E6E3D}
+	EndGlobalSection
+EndGlobal
